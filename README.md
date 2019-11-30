@@ -9,7 +9,9 @@ Simply type `kk` to get started 🙌 and enter into an interactive environment
 
 Type `kk` to start a new Knock Knock
 
-Type `wis` (Who is there) to answer a random `kk` request
+Type `wit` (Who is there) to answer a random `kk` request
+
+# Glossary
 
 # Contribute
 
